@@ -23,9 +23,13 @@ Every folder in the repository has a specific job. Knowing this will help you mo
 
 - **`01.GitPhone PLUGIN/`** – Setup and getting‑started files. You are reading one right now.
 - **`02.GitPhone SYLLABUS/`** – The full course outline and the AI mentor prompt.
-- **`03.GitPhone COURSE/`** – All lessons, grouped by module. Each lesson is a `.md` file you open, read, and practice.
-- **`04.GitPhone NOTES/`** – (Optional but recommended) One‑page revision sheets you write yourself after each lesson.
-- **`05.GitPhone PRACTISE/`** – Practice sets that mix everything from a module into real‑world tasks.
+- **`03.GitPhone COURSE/`** – All lessons, grouped by module.  
+  Module folders are: `Git_Module_01`, `Git_Module_02`, `Git_Module_03`, `Git_Module_04`.  
+  Each lesson is a `.md` file you open, read, and practice.
+- **`04.GitPhone NOTES/`** – Quick revision sheets.  
+  Files: `Module_01_Note.md`, `Module_02_Note.md`, `Module_03_Note.md`, `Module_04_Note.md`.
+- **`05.GitPhone PRACTISE/`** – Practice sets.  
+  Files: `Module_01_Prac.md`, `Module_02_Prac.md`, `Module_03_Prac.md`, `Module_04_Prac.md`.
 
 Take a moment now to open Acode and explore these folders. Familiarity builds speed.
 
@@ -48,7 +52,7 @@ After each lesson, you get a **tiny practice task**. You type every command your
 1. **Open the lesson** in Acode (inside `03.GitPhone COURSE/` → the current module).
 2. **Read both bricks** slowly. Understand the “why” before the “how”.
 3. **Open Termux** and perform the practice task exactly as described.
-4. **Write a short note** (1–3 lines) in your `04.GitPhone NOTES/` file for that lesson. This cements the concept.
+4. **Write a short note** in the corresponding `Module_XX_Note.md` file inside `04.GitPhone NOTES/`. This cements the concept.
 5. **Commit and push** your progress. Every lesson is a milestone you save to GitHub.
 
 If you ever get stuck, re‑read the lesson, run the commands again, or ask your AI mentor (see Section 5).

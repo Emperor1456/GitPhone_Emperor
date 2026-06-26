@@ -171,7 +171,7 @@ Every lesson follows this cycle. No copy‑paste. You type everything.
 
 8.1 Open the lesson file
 
-In Acode, navigate to Internal Storage → Download → GitPhone_Emperor and open the lesson file (e.g., L-01_git_init.md inside the module folder).
+In Acode, navigate to Internal Storage → Download → GitPhone_Emperor and open the lesson file (e.g., L-01_git_init.md inside 03.GitPhone COURSE/Git_Module_01/).
 
 8.2 Type the commands in Termux
 
@@ -179,7 +179,7 @@ Follow the practice task. Run each Git command, observe the output, understand i
 
 8.3 Save your notes
 
-After the lesson, write a short summary in the 04.GitPhone NOTES/ folder (optional but recommended).
+After the lesson, write a short summary in the corresponding Module_XX_Note.md file inside 04.GitPhone NOTES/.
 
 8.4 Stage and commit your work
 
@@ -232,9 +232,9 @@ Make sure you ran pkg install git -y. If missing, install it again.
 
 10. Next Steps
 
-· Open GETTING_STARTED.md in the same folder to understand the course structure and methodology.
+· Open GETTING_STARTED.md in the 01.GitPhone PLUGIN/ folder to understand the course structure and methodology.
 · Read the syllabus inside 02.GitPhone SYLLABUS/GitPhone_Curriculum.md.
-· Start with Module 1, Lesson 1 inside 03.GitPhone COURSE/GitPhone_Module_01/.
+· Start with Module 1, Lesson 1 inside 03.GitPhone COURSE/Git_Module_01/.
 · Use the AI mentor prompt (02.GitPhone SYLLABUS/GitPhone_AI_Prompt.md) with your AI assistant for personalized guidance.
 
 Welcome to GitPhone. Your journey to mastering Git and GitHub, entirely from your phone, begins now.
