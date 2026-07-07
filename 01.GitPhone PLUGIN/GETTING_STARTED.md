@@ -15,6 +15,8 @@ GitPhone Emperor is a complete, step‑by‑step curriculum that turns you from 
 
 For the full lesson list, open `02.GitPhone SYLLABUS/GitPhone_Curriculum.md`.
 
+Every module now includes a **Progress_Tracker.md** (checklist) and a `iv_Review_Sheets/` folder with a final practical challenge. The final capstone (`Capstone_Open_Source.md`) in `05.GitPhone PRACTISE/` ties everything together.
+
 ---
 
 ## 2. Folder Structure
@@ -25,11 +27,14 @@ Every folder in the repository has a specific job. Knowing this will help you mo
 - **`02.GitPhone SYLLABUS/`** – The full course outline and the AI mentor prompt.
 - **`03.GitPhone COURSE/`** – All lessons, grouped by module.  
   Module folders are: `Git_Module_01`, `Git_Module_02`, `Git_Module_03`, `Git_Module_04`.  
-  Each lesson is a `.md` file you open, read, and practice.
+  Each lesson is a `.md` file you open, read, and practice.  
+  Inside each module folder you’ll also find:
+  - `Progress_Tracker.md` – mark off completed lessons.
+  - `iv_Review_Sheets/` – a practical terminal challenge for the whole module.
 - **`04.GitPhone NOTES/`** – Quick revision sheets.  
   Files: `Module_01_Note.md`, `Module_02_Note.md`, `Module_03_Note.md`, `Module_04_Note.md`.
-- **`05.GitPhone PRACTISE/`** – Practice sets.  
-  Files: `Module_01_Prac.md`, `Module_02_Prac.md`, `Module_03_Prac.md`, `Module_04_Prac.md`.
+- **`05.GitPhone PRACTISE/`** – Practice sets and the final capstone.  
+  Files: `Module_01_Prac.md`, `Module_02_Prac.md`, `Module_03_Prac.md`, `Module_04_Prac.md`, `Capstone_Open_Source.md`.
 
 Take a moment now to open Acode and explore these folders. Familiarity builds speed.
 
@@ -52,8 +57,11 @@ After each lesson, you get a **tiny practice task**. You type every command your
 1. **Open the lesson** in Acode (inside `03.GitPhone COURSE/` → the current module).
 2. **Read both bricks** slowly. Understand the “why” before the “how”.
 3. **Open Termux** and perform the practice task exactly as described.
-4. **Write a short note** in the corresponding `Module_XX_Note.md` file inside `04.GitPhone NOTES/`. This cements the concept.
-5. **Commit and push** your progress. Every lesson is a milestone you save to GitHub.
+4. **Check off the lesson** in the module’s `Progress_Tracker.md`.
+5. **Write a short note** in the corresponding `Module_XX_Note.md` file inside `04.GitPhone NOTES/`. This cements the concept.
+6. **Commit and push** your progress. Every lesson is a milestone you save to GitHub.
+7. After finishing all lessons in a module, complete the **review challenge** in `iv_Review_Sheets/` and the **practice set**.
+8. At the end of the course, tackle the **capstone**.
 
 If you ever get stuck, re‑read the lesson, run the commands again, or ask your AI mentor (see Section 5).
 

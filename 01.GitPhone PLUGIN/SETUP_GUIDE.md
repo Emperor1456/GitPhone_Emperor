@@ -177,18 +177,22 @@ In Acode, navigate to Internal Storage → Download → GitPhone_Emperor and ope
 
 Follow the practice task. Run each Git command, observe the output, understand it.
 
-8.3 Save your notes
+8.3 Track your progress
 
-After the lesson, write a short summary in the corresponding Module_XX_Note.md file inside 04.GitPhone NOTES/.
+After completing a lesson, open the module’s `Progress_Tracker.md` and check off the lesson. When you finish all lessons in a module, do the review challenge in `iv_Review_Sheets/` and the practice set from `05.GitPhone PRACTISE/`. At the end of the course, complete the `Capstone_Open_Source.md` to prove your mastery.
 
-8.4 Stage and commit your work
+8.4 Save your notes
+
+After the lesson, write a short summary in the corresponding `Module_XX_Note.md` file inside `04.GitPhone NOTES/.
+
+8.5 Stage and commit your work
 
 ```bash
 git add .
 git commit -m "Complete Lesson 01: git init and git add"
 ```
 
-8.5 Push to GitHub
+8.6 Push to GitHub
 
 ```bash
 git push origin main
